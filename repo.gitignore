@@ -1,5 +1,8 @@
+__pycache__/
 venv/
 *.pyc
-__pycache__/
+*.pyo
+*.pyd
 .env
-*.csv
+*.sqlite3
+.DS_Store
